@@ -128,7 +128,7 @@ function test(){
         }
     }
 
-    for(var x = 0; x < "1000" ; x++){
+    for(var x = 0; x < 1000 ; x++){
         for(var y = 0; y < 1000 ; y++){
             ans += lightGrid[x][y];
         }
